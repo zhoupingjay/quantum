@@ -1,5 +1,8 @@
 # My Work on Quantum Computation
 
+* Machine Learning Meets Quantum: Getting Started with TensorFlow Quantum
+  * [Notebook](https://github.com/zhoupingjay/quantum/blob/main/Getting-Started-With-TensorFlow-Quantum.ipynb)
+
 * 2-bit Deutsch Problem
   * [Notebook](https://github.com/zhoupingjay/quantum/blob/main/2-bit-Deutsch-Problem.ipynb)
 
