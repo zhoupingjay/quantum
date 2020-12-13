@@ -1,5 +1,8 @@
 # My Work on Quantum Computation
 
+* Quantum Neural Network (QNN)
+  * [Notebook](https://github.com/zhoupingjay/quantum/blob/main/QNN-MNIST.ipynb)
+
 * Machine Learning Meets Quantum: Getting Started with TensorFlow Quantum
   * [Notebook](https://github.com/zhoupingjay/quantum/blob/main/Getting-Started-With-TensorFlow-Quantum.ipynb)
 
@@ -10,6 +13,9 @@
   * [Notebook](https://github.com/zhoupingjay/quantum/blob/main/Quantum-Teleportation.ipynb)
 
 # 量子计算
+
+* 量子神经网络QNN
+  * [Notebook](https://github.com/zhoupingjay/quantum/blob/main/QNN-MNIST.ipynb)
 
 * 量子机器学习：TensorFlow Quantum入门
   * [Notebook](https://github.com/zhoupingjay/quantum/blob/main/Getting-Started-With-TensorFlow-Quantum-CN.ipynb)
